@@ -1,4 +1,4 @@
-module github.com/libdns/linode
+module github.com/charego/libdnslinode
 
 go 1.23.0
 
